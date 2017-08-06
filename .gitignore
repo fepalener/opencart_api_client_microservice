@@ -1,0 +1,11 @@
+# Composer 
+/vendor/
+
+# Config
+/config/*
+!/config/application.dist.php
+
+!.gitkeep
+
+# NetBeans
+/nbproject
